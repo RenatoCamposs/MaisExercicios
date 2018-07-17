@@ -1,0 +1,8 @@
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 13\EX 13\bin\Debug\EX 13.exe.config
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 13\EX 13\bin\Debug\EX 13.exe
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 13\EX 13\bin\Debug\EX 13.pdb
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 13\EX 13\obj\Debug\EX_13.Form1.resources
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 13\EX 13\obj\Debug\EX_13.Properties.Resources.resources
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 13\EX 13\obj\Debug\EX 13.csproj.GenerateResource.Cache
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 13\EX 13\obj\Debug\EX 13.exe
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 13\EX 13\obj\Debug\EX 13.pdb

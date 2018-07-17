@@ -1,0 +1,9 @@
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\bin\Debug\EX 7.exe.config
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\bin\Debug\EX 7.exe
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\bin\Debug\EX 7.pdb
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\obj\Debug\EX 7.csprojResolveAssemblyReference.cache
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\obj\Debug\EX_7.Form1.resources
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\obj\Debug\EX_7.Properties.Resources.resources
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\obj\Debug\EX 7.csproj.GenerateResource.Cache
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\obj\Debug\EX 7.exe
+c:\users\etec sm\documents\visual studio 2012\Projects\EX 7\EX 7\obj\Debug\EX 7.pdb
